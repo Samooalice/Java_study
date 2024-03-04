@@ -1,0 +1,34 @@
+ - vnc viewer
+192.168.0.158
+0129
+
+ - github주소
+https://github.com/juneuns29/javastudy
+
+ - JDK & JRE
+JDK(Java Development Kit) -> 개발에 필요한 키트들
+JRE(Jaca Runtime Envirment) -> 자바 프로그램 돌리는데 필요
+
+JDK에 JRE가 포함되어 있음.
+
+ - java 설치 확인 방법
+cmd -> java -version
+버전(업데이트 내용) : major.mimor.micro
+
+[ ] : 대괄호 -> 배열 표현할때 활용
+{ } : 중괄호 -> 블럭 표현(영역)
+( ) : 소괄호 -> 영역 구분, 함수호출
+
+- 확장자
+.java : 코딩소스
+.class : 런 소스
+
+- cmd에서 .class 파일 실행 방법
+java [클래스이름]
+
+- eclipse 20.06버전
+https://www.eclipse.org/downloads/packages/release/2020-06/r
+Eclipse IDE for java Developers 다운
+
+- d2coding 다운
+글자의 폭을 일정하게 유지
